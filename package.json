@@ -1,0 +1,24 @@
+{
+  "name": "get-nested-safe",
+  "version": "1.0.0",
+  "description": "A module that helps fetch nested attributes in an object safely even if the path doesn't exist",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarwaleed/get-nested-safe.git"
+  },
+  "keywords": [
+    "object",
+    "nesting",
+    "deep"
+  ],
+  "author": "Omar Waleed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarwaleed/get-nested-safe/issues"
+  },
+  "homepage": "https://github.com/omarwaleed/get-nested-safe#readme"
+}
